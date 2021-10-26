@@ -1,0 +1,31 @@
+Java is an platform independent 
+  - it is mainly used for application programming,web base, enterprise and mobile applications 
+  - it is popular programming language created in 1995.
+  - it is own by oracle and more than 3 billion devices run java
+  - it used for destop applications ,web applications,web server and appliaction servers.
+  
+* Features of java
+   - Simple,easy to learnand its syntax is quite simple, clean and easy to understand
+   - object oriented : which allows us to maintain our code as the combination of different types of objects that incoperates data and behaviour.
+   - portable : java supports READ ONCE WRITE ANYWHERE; we can exceute the java program on every machine.
+   - java program(.java)is converted to bytecode(.class).
+   - platform independent ; it is different from other programming language like c,c++ which needs a platform to be executed
+   - java comes with its platform on which its code is executed.
+   - java doesnot depend on the operating system to be executed.
+   - secured: java is secured because it doesnot use explicit pointers, java also provides the concept of bytecode and exception handling which makes it more secured.
+   - Robust: java is a strong programming language as it usesstrong memory management, The concept like automatic garbage collection ,exception handling etc makes it more              robust 
+   - Architectural neutral : it is Architectural neutral as it is not dependent on architecture. Compiler generates bytecode which has nothing to do with a particular                                   architecture. hence java program is easy to enterpret on any machine.
+   - Interpreted : java uses JIT(JUST IN TIME)interpreter alng with hte compile for program execution.
+   - High performance : java is faster than other traditional interpreted programming language becoz java byrecode is close to native code.
+   - Multithreaded  : we can write java program that deals with many task at once by defining multiple threads, The main advantage of multithreading is that it doesnot                       occupy memor of each head, it shares a common area, threads are important for multimedia , web appliactions etc
+   - Distributed : java is distributed because it fascilated users to create distributed applications in java this feature of java makes us able to access files by calling                    the methods from any machine on the internet.
+   - Dynamic: it is a dynamic language its suports dynamic loading of classes, it means classes are loaded on demand
+
+class Ghost{
+void Ghost(){
+//default constructor
+
+void Ghost(String name)
+//parameter constructor
+}
+}
